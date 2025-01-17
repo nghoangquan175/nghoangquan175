@@ -1,74 +1,33 @@
-<h1 align="center">👋 Hi, I'm Nguyen Hoang Quan</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyen Hoang Quan
+=========================================================================================================================================
 
-<h3>I'm an enthusiastic and responsible individual with a strong passion for web development. I have solid knowledge and some personal projects with ReactJS, NodeJS, and JavaScript. 
+Web developer
+-------------
 
-I pride myself on my ability to communicate effectively in English and thrive in team environments where collaboration and energy drive success. Currently, I am seeking an internship opportunity to showcase my skills, deepen my expertise, and contribute meaningfully to a company's success.
+I'm an enthusiastic and responsible individual with a strong passion for web development. I have solid knowledge and some personal projects with ReactJS, NodeJS, and JavaScript. I pride myself on my ability to communicate effectively in English and thrive in team environments where collaboration and energy drive success. Currently, I am seeking an internship opportunity to showcase my skills, deepen my expertise, and contribute meaningfully to a company's success. Feel free to connect with me and let's build something amazing together! 🚀
 
-Feel free to connect with me and let's build something amazing together! 🚀
-</h3>
+* 🌍  I'm based in Ha Noi
+* 🧠  I’m currently learning how to develop websites with **ReactJS**, **NodeJS**, and enhancing my knowledge in database such as **SQL Server**, **MySQL**, and **MongoDB**
+* ✉️  You can contact me at [nghoangquan1705@gmail.com](mailto:nghoangquan1705@gmail.com)
+* 😄 Pronouns: he/him
+* ⚡  I started learning JavaScript before I learned C++ in University!
 
-- 🌱 I’m currently learning how to develop websites with **ReactJS**, **NodeJS**, and enhancing my knowledge in **SQL Server**, **MySQL**, and **MongoDB**.
-  
-- 💬 Ask me about **ReactJS**, **NodeJS**, **JavaScript** and **SQL**
-  
-- 📫 How to reach me: [nghoangquan1705@gmail.com](mailto:nghoangquan1705@gmail.com)
-  
-- 😄 Pronouns: he/him
-  
-- ⚡ Fun fact: I started learning JavaScript before I learned C++ in University!
+### Skills
 
-<h2>Connect with me:</h2>
-<p align="center">
-  <a href="https://www.facebook.com/ng.hoangquan.1705" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/qu%C3%A2n-nguy%E1%BB%85n-ho%C3%A0ng-45a132343/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
 
-<h2>Programming languages, Frameworks and Tools:</h2>
-
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/JavaScript-logo.png" alt="JS" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://reactjs.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://nodejs.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg" alt="NodeJS" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://expressjs.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="ExpressJS" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.sql.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQL_server_logo.png" alt="SQL" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.mongodb.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/MongoDB_Logo_2019.png" alt="MongoDB" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.mysql.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/MySQL_logo.svg" alt="MySQL" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.postman.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Postman_Logo_2020.svg" alt="Postman" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.thunderclient.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/ThunderClient_Logo.png" alt="Thunder Client" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.apachefriends.org/index.html">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/XAMPP_Logo.svg/1200px-XAMPP_Logo.svg.png" alt="XAMPP" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://code.visualstudio.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://developer.chrome.com/docs/devtools/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Chrome_DevTools_Logo_2020.png" alt="Chrome DevTools" width="40" height="40"/>
-  </a>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
 
+### Socials
 
+<p align="left"> <a href="https://www.facebook.com/ng.hoangquan.1705" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/nghoangquan175" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/quân-nguyễn-hoàng-45a132343" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/29235926/quân-nguyễn-hoàng" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
 
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/nghoangquan175"><img src="https://github-readme-stats.vercel.app/api?username=nghoangquan175&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nghoangquan175's GitHub stats" /></a>
+
+<a href="https://github.com/nghoangquan175" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghoangquan175&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
