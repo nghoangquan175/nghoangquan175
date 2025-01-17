@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I'm Nguyen Hoang Quan</h1>
 ---
-<h3 align="center">I'm an enthusiastic and responsible individual with a strong passion for web development. I have solid knowledge and some personal projects with **ReactJS**, **NodeJS**, and **JavaScript**. 
+<h3>I'm an enthusiastic and responsible individual with a strong passion for web development. I have solid knowledge and some personal projects with **ReactJS**, **NodeJS**, and **JavaScript**. 
 
 I pride myself on my ability to communicate effectively in English and thrive in team environments where collaboration and energy drive success. Currently, I am seeking an **internship opportunity** to showcase my skills, deepen my expertise, and contribute meaningfully to a company's success.
 
 Feel free to connect with me and let's build something amazing together! 🚀
 </h3>
----
+
 - 🌱 I’m currently learning how to develop websites with **ReactJS**, **NodeJS**, and enhancing my knowledge in **SQL Server**, **MySQL**, and **MongoDB**.
 - 💬 Ask me about **ReactJS**, **NodeJS**, **JavaScript** and **SQL**
 - 📫 How to reach me: [nghoangquan1705@gmail.com](mailto:nghoangquan1705@gmail.com)
@@ -24,7 +24,6 @@ Feel free to connect with me and let's build something amazing together! 🚀
   </a>
 </p>
 
-<h2>Programming languages, Frameworks and Tools:</h2>
 <h2>Programming languages, Frameworks and Tools:</h2>
 
 <p align="center">
