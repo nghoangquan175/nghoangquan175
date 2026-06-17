@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyen Hoang Quan
 =========================================================================================================================================
 
-ReactJS | NodeJS | Web developer
+Young Dev - JS
 -------------
 
-I'm an enthusiastic and responsible individual with a strong passion for web development. I have solid knowledge and some personal projects with ReactJS, NodeJS, and JavaScript. I pride myself on my ability to communicate effectively in English and thrive in team environments where collaboration and energy drive success. Currently, I am seeking an internship opportunity to showcase my skills, deepen my expertise, and contribute meaningfully to a company's success. Feel free to connect with me and let's build something amazing together! 🚀
+I'm an enthusiastic and responsible individual with a strong passion for web development. I value clarity, structure, and thoughtful problem-solving, and I’m in the process of growing into a more mature and reliable engineer. 
+Feel free to connect with me and let's build something amazing together!
 
 * 🌍 I'm based in Ha Noi
-* 🧠 I’m currently using how to develop websites with **ReactJS**, **ReactJS** - **NodeJS**, and database such as **SQL Server**, **MySQL**, and **MongoDB**
 * ✉️ You can contact me at [nghoangquan1705@gmail.com](mailto:nghoangquan1705@gmail.com)
 * 😄 Pronouns: he/him
 
